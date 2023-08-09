@@ -1,3 +1,2 @@
 Fichier de test
 Hello World!
-Hello everybody!
