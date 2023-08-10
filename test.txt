@@ -1,1 +1,2 @@
 Fichier de texte
+Pull = fetch + merge
