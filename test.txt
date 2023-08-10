@@ -1,2 +1,3 @@
 Fichier de texte
+A retenir:
 Pull = fetch + merge
