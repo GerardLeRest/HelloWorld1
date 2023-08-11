@@ -1,2 +1,3 @@
+git
 A retenir:
 Pull = fetch + merge
